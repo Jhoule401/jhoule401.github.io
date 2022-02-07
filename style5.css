@@ -11,5 +11,5 @@
 #all 
    {width:800px;
         margin: auto;
-         border: 1px solid blue;
-        border-top: 10px solid red; }
+         border: 5px solid blue;
+        border-right: 15px solid red; }
