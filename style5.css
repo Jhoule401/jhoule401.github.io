@@ -1,6 +1,7 @@
 
         
-        body { background-image:url("Backgorund CSC.jpeg") height="800" width="600";
+        body { background-image:url(.../Backgorund CSC.jpg);
+                height="800" width="600";
   background-color: #FFFAF0}
 
 #nav-table { width: 800px; }
