@@ -1,8 +1,14 @@
 
         
-        body { background-image:url(.../Backgorund CSC.jpg);
-                height="800" width="600";
-  background-color: #FFFAF0}
+    .bg-image 
+{       padding:20em;
+        background-image:url(".../Backgorund CSC.jpg");
+        background-repeat:no-repeat;
+        background-position:center;
+}
+            
+ 
+background-color: #FFFAF0}
 
 #nav-table { width: 800px; }
 #nav-td { width: 200px; text-align:center;}   
