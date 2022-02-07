@@ -13,3 +13,5 @@
         margin: auto;
          border: 2px solid blue;
         border-right: 10px solid red; }
+ #nav-table
+      { background-color: solid red;}
