@@ -8,3 +8,8 @@
        
  #offical-info {
           background:rgb(230,230,230);}
+#all 
+   {width:800px;
+        margin: auto;}
+         border: 1px; solid blue;
+        border-top: 10px; solid red; }
