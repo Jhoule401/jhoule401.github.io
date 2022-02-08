@@ -20,3 +20,9 @@ background-color: #FFFAF0;}
         border-right: 10px solid red; }
  #nav-table
       { background-color: solid red;}
+
+#military-pic{
+      width:300px;
+      float:left;
+      margin-left: 20px;
+      margin-bottom:300px;}
