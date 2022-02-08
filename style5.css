@@ -9,14 +9,19 @@
 background-color: #FFFAF0;}
       
         
-#nav-table { width: 800px; }
-#nav-td { width: 800px; text-align:center;}   
+#nav-table { width: 800px; 
+position:absolute;}
+#nav-td { width: 800px;
+ position:absolute;
+ text-align:center;}   
        
  #offical-info {
+         position:absolute;
           background:rgb(230,230,230);
                 width:800px;}
 #all 
    {width:800px;
+           position:absolute;
         margin: auto;
          border: 2px solid blue;
         border-right: 10px solid red; }
@@ -24,6 +29,7 @@ background-color: #FFFAF0;}
       { background-color: solid red;}
 
 #military-pic{
+      position:absolute;
       width:300px;
       float:left;
       margin-left: 20px;
