@@ -1,35 +1,28 @@
 
         
    
-#background-image{
-        align:auto;
-         position:absolute;}
             
  
 background-color: #FFFAF0;}
       
         
-#nav-table { width: 800px; 
-position:absolute;}
+#nav-table { width: 800px; }
 #nav-td { width: 800px;
  position:absolute;
  text-align:center;}   
        
  #offical-info {
-         position:absolute;
           background:rgb(230,230,230);
                 width:800px;}
 #all 
    {width:800px;
-           position:absolute;
         margin: auto;
          border: 2px solid blue;
         border-right: 10px solid red; }
  #nav-table
       { background-color: solid red;}
 
-#military-pic{
-      position:absolute;
+#military-pic; {
       width:300px;
       float:left;
       margin-left: 20px;
